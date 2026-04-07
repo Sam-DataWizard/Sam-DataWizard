@@ -10,7 +10,7 @@
   <a href="mailto:sampathvuthur2022@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sampath-v">
+  <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Sam-DataWizard">
@@ -92,32 +92,42 @@ I enjoy creating solutions that are not only technically strong, but also practi
 
 <div align="center">
 
+###  Beginner Friendly ETL Pipeline in Python
+I designed this ETL project as a beginner friendly guide to understanding how data extraction, transformation, and loading workflows work in Python.
+
 <a href="https://github.com/Sam-DataWizard/etl-pipeline-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sam-DataWizard&repo=etl-pipeline-python&theme=transparent&hide_border=true" />
+  <img src="https://img.shields.io/badge/Open%20Project-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL-0ea5e9?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Engineering-22c55e?style=flat-square" />
+
+<br />
+<br />
+
+###  End to End Machine Learning Workflow
+I built this machine learning project to help beginners understand the end to end workflow, from data preparation and model building to evaluation and practical implementation.
+
 <a href="https://github.com/Sam-DataWizard/ML_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sam-DataWizard&repo=ML_Project&theme=transparent&hide_border=true" />
+  <img src="https://img.shields.io/badge/Open%20Project-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Project-f59e0b?style=flat-square" />
 
 </div>
 
-### Project Highlights
-
-**ETL Pipeline with Python**  
-A clean example of building a structured ETL workflow using Python-based transformation and loading patterns.
-
-**End-to-End ML Project**  
-A practical machine learning project that reflects model-building workflow, structure, and experimentation from data to output.
-
 ---
 
-##  Engineering Mindset
+##  How I Build
 
 ```text
 Build clean.
-Think in systems.
 Design for scale.
-Automate what matters.
-Keep learning.
-Ship with purpose.
+Think beyond code.
+Improve business efficiency.
+Turn data into actionable insight.
+Automate with intention.
+Deliver systems that create value.

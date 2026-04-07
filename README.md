@@ -1,33 +1,123 @@
-[![MasterHead](https://iabac.org/blog/uploads/images/202401/image_870x_65a25bb5e37bf.jpg)]
-<h1 align="center">Hi 👋, I'm Sampath</h1>
-<h3 align="center">A dedicated data engineer turning data into actionable insights</h3>
-<img align="right" alt="Coding" width="400" src="https://digitalogy.co/blog/wp-content/uploads/2019/06/Hiring-Data-Scientists.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-datawizard&label=Profile%20views&color=0e75b6&style=flat" alt="sam-datawizard" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Sampath%20Vuthur&fontAlign=50&fontAlignY=40&color=0:0f172a,30:1e293b,60:0ea5e9,100:22c55e&fontColor=ffffff&desc=Data%20Engineering%20%7C%20AI%20%7C%20GenAI&descAlign=50&descAlignY=62&animation=fadeIn" width="100%" />
 
-- 🔭 I’m currently working on **Retail Predictive Analytics**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&multiline=true&width=900&height=100&lines=I+build+scalable+data+platforms+and+intelligent+pipelines;I+work+across+ETL%2C+Lakehouse%2C+ML+workflows%2C+and+GenAI+use+cases;Currently+exploring+AI+agents%2C+knowledge+bases%2C+and+human-centered+AI+systems" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **AI, TensorFlow, PyTorch**
-
-- 👯 I’m looking to collaborate on **Data Projects**
-
-- 💬 Ask me about **Data, Big Data, Snowflake, Databricks, GENAI, AI**
-
-- 📫 How to reach me **sampathvuthur2022@gmail.com**
-
-- ⚡ Fun fact **I once built a neural network to determine the perfect pizza topping combination based on my friends' preferences!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sampath-v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sampath-v/" height="30" width="40" /></a>
-<a href="https://kaggle.com/sampathvu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sampathvu" height="30" width="40" /></a>
+<p>
+  <a href="mailto:sampathvuthur2022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sampath-v">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sam-DataWizard">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://img.shields.io/badge/Data%20Engineering-0ea5e9?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20GenAI-8b5cf6?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Data%20Platforms-22c55e?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-f59e0b?style=flat-square&logo=apacheairflow&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam-datawizard&show_icons=true&locale=en&layout=compact" alt="sam-datawizard" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-datawizard&show_icons=true&locale=en" alt="sam-datawizard" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-datawizard&" alt="sam-datawizard" /></p>
+##  About Me
+
+I build data systems that turn raw data into reliable, analytics-ready, and AI-ready assets.
+
+My focus sits at the intersection of **data engineering**, **cloud platforms**, and **intelligent systems** — from ETL pipelines and lakehouse workflows to ML pipelines, data quality, and emerging GenAI use cases.
+
+I enjoy creating solutions that are not only technically strong, but also practical, scalable, and useful for real business outcomes.
+
+---
+
+##  What I Work With
+
+<div align="center">
+
+### Data + AI Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,aws,azure,docker,git,github,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-0F172A?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-F97316?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Pipelines-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+##  What You Can Ask Me About
+
+- Building ETL / ELT pipelines with Python and SQL  
+- Designing scalable cloud data workflows  
+- Databricks, Snowflake, Spark, and modern lakehouse patterns  
+- Data modeling, transformation strategy, and analytics-ready datasets  
+- AI agents, GenAI use cases, and knowledge-base-driven solutions  
+- Turning project ideas into portfolio-ready engineering work  
+
+---
+
+##  Current Focus
+
+- Exploring **AI agents** and multi-step intelligent workflows  
+- Learning more about **AI knowledge base training** and retrieval-driven systems  
+- Expanding portfolio projects around **data engineering + AI integration**  
+- Keeping creativity sharp through **guitar** and hands-on building  
+
+---
+
+##  Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Sam-DataWizard/etl-pipeline-python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sam-DataWizard&repo=etl-pipeline-python&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/Sam-DataWizard/ML_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sam-DataWizard&repo=ML_Project&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+### Project Highlights
+
+**ETL Pipeline with Python**  
+A clean example of building a structured ETL workflow using Python-based transformation and loading patterns.
+
+**End-to-End ML Project**  
+A practical machine learning project that reflects model-building workflow, structure, and experimentation from data to output.
+
+---
+
+##  Engineering Mindset
+
+```text
+Build clean.
+Think in systems.
+Design for scale.
+Automate what matters.
+Keep learning.
+Ship with purpose.

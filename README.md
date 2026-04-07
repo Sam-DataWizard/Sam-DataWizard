@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Data Projects**
 
-- 💬 Ask me about **Data, Big Data, Snowflake**
+- 💬 Ask me about **Data, Big Data, Snowflake, Databricks, GENAI, AI**
 
 - 📫 How to reach me **sampathvuthur2022@gmail.com**
 
